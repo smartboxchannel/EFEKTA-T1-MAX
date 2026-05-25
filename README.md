@@ -2,6 +2,8 @@
 
 Temperature sensor with external DS18B20 probe in a sealed capsule, 3 meters cable, with extended functionality (thermostat). Powered via USB Type-C with backup power from 2 AA batteries. Available in two firmware variants.
 
+![EFEKTA-T1-MAX](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-T1-MAX/refs/heads/main/Images/6.png) 
+
 ## Firmware Variants
 
 ### Router (EFEKTA_T1_MAX_R)
